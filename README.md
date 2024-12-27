@@ -49,7 +49,8 @@ streamlit run app.py
 - `requirements.txt`: List of required Python libraries.
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/2314f9e1-29af-488c-96ce-c65763453ec2)
+
 
 ## Notes
 - Ensure the `downloads` directory has appropriate permissions for storing temporary video files.
